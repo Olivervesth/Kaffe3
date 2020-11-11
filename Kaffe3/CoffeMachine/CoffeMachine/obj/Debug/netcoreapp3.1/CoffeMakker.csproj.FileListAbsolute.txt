@@ -1,0 +1,13 @@
+C:\Users\GRTV\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMakker.csprojAssemblyReference.cache
+C:\Users\GRTV\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMakker.AssemblyInfoInputs.cache
+C:\Users\GRTV\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMakker.AssemblyInfo.cs
+C:\Users\GRTV\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMakker.csproj.CoreCompileInputs.cache
+C:\Users\GRTV\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp3.1\CoffeMakker.exe
+C:\Users\GRTV\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp3.1\CoffeMakker.deps.json
+C:\Users\GRTV\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp3.1\CoffeMakker.runtimeconfig.json
+C:\Users\GRTV\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp3.1\CoffeMakker.runtimeconfig.dev.json
+C:\Users\GRTV\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp3.1\CoffeMakker.dll
+C:\Users\GRTV\source\repos\CoffeMachine\CoffeMachine\bin\Debug\netcoreapp3.1\CoffeMakker.pdb
+C:\Users\GRTV\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMakker.dll
+C:\Users\GRTV\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMakker.pdb
+C:\Users\GRTV\source\repos\CoffeMachine\CoffeMachine\obj\Debug\netcoreapp3.1\CoffeMakker.genruntimeconfig.cache
